@@ -12,18 +12,22 @@ A simple Ethereum wallet generator written in Rust, starting from a mnemonic phr
 Clone and compiling:
 
 ```bash
-git clone https://github.com/usuario/walletgen.git
-cd walletgen
+git clone https://github.com/raiseerco/rust-gen-eth-rator.git
+cd rust-gen-eth-rator
 cargo build --release
 ```
 
 Running from the binary:
 
 ```bash
-./target/release/walletgen
+./target/release/rust-gen-eth-rator
 ```
 
 Running from code
 ```bash
 cargo run
 ```
+
+# License
+
+MIT
